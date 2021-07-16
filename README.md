@@ -13,3 +13,8 @@ Includes:
 - Model experimentation and validation
 
 # Model Visuals
+**Hybrid Character and Token-level Embedding**: Model that makes use of token and character-level embeddings.
+<img width="503" alt="Screen Shot 2021-07-16 at 10 31 29 AM" src="https://user-images.githubusercontent.com/66507226/125882991-6e4849fc-336a-4821-8170-4052f562b314.png">
+
+**Tribrid Character and Token-level + Engineered Features Embedding**: Model that makes use of token and character-level embeddings plus engineered features of text (line_number and total lines of abstract)
+<img width="641" alt="Screen Shot 2021-07-16 at 10 31 44 AM" src="https://user-images.githubusercontent.com/66507226/125883000-8f87a2ae-e27d-4e65-8a6d-9d0419f54af7.png">
